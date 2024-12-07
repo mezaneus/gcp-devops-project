@@ -1,2 +1,4 @@
-# gcp-devops-project
-#This is a repo for our GCP DevOps Project
+# Docker flash application
+
+- This application is written in python
+- It shall be deployed on GKE
